@@ -6,7 +6,7 @@ trusted conjugated contracts may implement complex logic while being able to use
 
 That way wallet can be extended in numerous ways, including partial, infinite or programmatic allowances, special connectors to specific DApps, custom user-governed add-ons.
 
-More info see in [TIPS-38](https://github.com/newton-blockchain/TIPs/issues/38).
+More info see in [TIPS-38](https://github.com/newton-blockchain/TIPs/issues/38.
 
 ## Interface
 ### External messages
